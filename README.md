@@ -1,3 +1,5 @@
+Please follow the tutorial of README.md file
+
 Step 1: Plan Your IDE Features
 Before you start coding, outline the basic features you want for your IDE. For a simple IDE, these features could include:
 
@@ -21,7 +23,7 @@ To install PyQt5, run:
 bash
 Copy code
 pip install pyqt5
-Set Up Your Python File: Create a new Python file (e.g., simple_ide.py) where you will write your IDE’s code.
+Set Up Your Python File: Create a new Python file (index.py) where you will write your IDE’s code .
 
 Step 3: Create the Main Window
 Create the basic structure of your IDE window using QMainWindow (which is provided by PyQt5).
