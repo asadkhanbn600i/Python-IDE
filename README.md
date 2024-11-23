@@ -18,12 +18,13 @@ Debugger integration.
 Step 2: Set Up the Development Environment
 Install PyQt5: PyQt5 is a set of Python bindings for Qt, which you will use for the graphical interface.
 
-To install PyQt5, run:
 
+steps to install PyQt5, run:
 bash
 Copy code
 pip install pyqt5
-Set Up Your Python File: Create a new Python file (index.py) where you will write your IDE’s code .
+Set Up Your Python File: Create a new python file (index.py) where you will write your IDE’s code .
+name of the files are README.md and index.py
 
 Step 3: Create the Main Window
 Create the basic structure of your IDE window using QMainWindow (which is provided by PyQt5).
